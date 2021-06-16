@@ -1,6 +1,7 @@
 # Image_Analysis
  Some image analysis code for summer 2021
 
+## Creating Environment
 conda env create -f environment.yml
 
 activate caiman
